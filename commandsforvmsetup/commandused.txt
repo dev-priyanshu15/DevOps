@@ -1,0 +1,88 @@
+    1  cd server/
+    2  npm i
+    3  npm run start
+    4  import * from openai
+    5  npm i openai
+    6  npm run start
+    7  npm exec openai migrate
+    8  npm run start
+    9  npm run start
+   10  node --trace-deprecation ...
+   11  npm run start
+   12  node -v
+   13  nvm ls version
+   14  nvm ls-remote
+   15  npm run start
+   16  nvm install 20.10.0
+   17  npm run start
+   18  npm i yarn
+   19  yarn start
+   20  yarn run
+   21  npm run start
+   22  node --trace-deprecation ...
+   23  NODE_OPTIONS='--trace-deprecation' npx next dev
+   24  npm run start
+   25  npm run start
+   26  node --trace-deprecation
+   27  ssh centosuser@192.168.6.65/24
+   28  ssh centosuser@192.168.6.65
+   29  clear
+   30  pwd
+   31  mkdir /E/vagrant-vms
+   32  cd E/vagrant-vms/
+   33  cd E/vagrant-vms
+   34  cd /E/vagrant-vms/
+   35  pwd
+   36  ls
+   37  mkdir centos
+   38  mkdir ubuntu
+   39  ls
+   40  clear
+   41  s
+   42  ls
+   43  cd centos/
+   44  pwd
+   45  clear
+   46  ls
+   47  vagrant init eurolinux-vagrant/centos-stream-9
+   48  ls
+   49  ls
+   50  cat Vagrantfile
+   51  vagrant up
+   52  vagrant up
+   53  vagrant up
+   54  vagrant box list
+   55  vagrant status
+   56  vagrant ssh
+   57  vagrant halt
+   58  vagrant status
+   59  vagrant up
+   60  vagrant reload
+   61  vagrant destroy
+   62  vagrant status
+   63  vagrant up
+   64  vagrant box list
+   65  vagrant halt
+   66  clear
+   67  pwd
+   68  cd ..
+   69  ls
+   70  cd ubuntu/
+   71  pwd
+   72  vagrant init ubuntu/jammy64
+   73  ls
+   74  vagrant up
+   75  vigrant status
+   76  vagant status
+   77  vagrant status
+   78  vagrant global-status
+   79  vagrant global-status --prune
+   80  vagrant status
+   81  vagrant ssh
+   82  vagrant halt
+   83  vagrant global-status
+   84  cd /E/vagrant-vms/centos/
+   85  vagrant up
+   86  vagrant halt
+   87  history
+
